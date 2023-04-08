@@ -1,0 +1,12 @@
+.large-2::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+.large-2::-webkit-scrollbar {
+  width: 7px;
+}
+
+.large-2::-webkit-scrollbar-thumb {
+  border-radius: 12px;
+  background-color: #c0c0c0;
+}
